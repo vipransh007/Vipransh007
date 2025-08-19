@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img alt="my stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=Vipransh007&hide=stars&theme=dark" />
 
 <!--
 **vipransh007/Vipransh007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
