@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vipransh Anand</h1>
 <h3 align="center">I'm a Full-Stack Developer proficient in both the PERN and MERN stacks. I handle everything from UI/UX to database design and have a strong command of DevOps practices for seamless deployment. I'm also expanding my toolkit into Machine Learning.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
 - 📫 How to reach me **vipransh231527@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/vipransh007/ResumeVipransh](https://github.com/vipransh007/ResumeVipransh)
