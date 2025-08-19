@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipransh Anand</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a Full-Stack Developer proficient in both the PERN and MERN stacks. I handle everything from UI/UX to database design and have a strong command of DevOps practices for seamless deployment. I'm also expanding my toolkit into Machine Learning.</h3>
 
 - 📫 How to reach me **vipransh231527@gmail.com**
 
